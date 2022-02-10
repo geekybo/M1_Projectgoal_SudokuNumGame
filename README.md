@@ -1,8 +1,8 @@
 ## Sudoku Game
 # CODE ANALYSIS
-| Build | Code Grade | Code Quality Score | Codacy |
-| -- | -- | -- | -- |
-| [![C/C++ CI](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/actions/workflows/c_build.yml/badge.svg)](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/actions/workflows/c_build.yml)| https://api.codiga.io/project/30937/status/svg | https://api.codiga.io/project/30937/score/svg | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0d9bb01644c4d3cb1d376b3b2758f90)](https://www.codacy.com/gh/geekybo/M1_Projectgoal_SudokuNumGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M1_Projectgoal_SudokuNumGame&amp;utm_campaign=Badge_Grade)
+| Build | CPPcheck | Code Grade | Code Quality Score | Codacy |
+| -- | -- | -- | -- | -- |
+| [![C/C++ CI](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/actions/workflows/c_build.yml/badge.svg)](https://github.com/Thotakura-Bhavya/Stepin_ATM_miniproject/actions/workflows/c_build.yml)| [![cppcheck-action-test](https://github.com/JanhaviGomase/M1_Game_Sudoku/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/JanhaviGomase/M1_Game_Sudoku/actions/workflows/cppcheck.yml) | https://api.codiga.io/project/30937/status/svg | https://api.codiga.io/project/30937/score/svg | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0d9bb01644c4d3cb1d376b3b2758f90)](https://www.codacy.com/gh/geekybo/M1_Projectgoal_SudokuNumGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M1_Projectgoal_SudokuNumGame&amp;utm_campaign=Badge_Grade)
 
 # Introduction
 
