@@ -13,11 +13,11 @@
 
 int printSudoku(int arr[9][9])
 {
-     for (int i = 0; i < 9; i++)
+     for (int a = 0; a < 9; a++)
       {
-         for (int j = 0; j < 9; j++)
+         for (int b = 0; b < 9; b++)
          {
-             printf("%d  ",arr[i][j]); 
+             printf("%d  ",arr[a][b]); 
          }            
         printf("\n");
        }
