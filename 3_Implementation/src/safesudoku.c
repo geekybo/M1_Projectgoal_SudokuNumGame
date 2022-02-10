@@ -16,9 +16,9 @@ int safeSudoku(int arr[9][9],int row,int col,int num)
      
     // Check if we find the same num
     // in the similar row , we return 0
-    for (int x = 0; x <= 8; x++)
+    for (int v = 0; v <= 8; v++)
     {
-        if (arr[row][x] == num)
+        if (arr[row][v] == num)
         {
            return 0;
         }         
@@ -26,9 +26,9 @@ int safeSudoku(int arr[9][9],int row,int col,int num)
         
     // Check if we find the same num in the
     // similar column , we return 0
-    for (int x = 0; x <= 8; x++)
+    for (int v = 0; v <= 8; v++)
     {
-         if (arr[x][col] == num)
+         if (arr[v][col] == num)
          {
              return 0;
          }
@@ -41,11 +41,11 @@ int safeSudoku(int arr[9][9],int row,int col,int num)
     int startRow = row - row % 3,
                  startCol = col - col % 3;
    
-    for (int i = 0; i < 3; i++)
+    for (int a = 0; a < 3; a++)
     {
-        for (int j = 0; j < 3; j++)
+        for (int b = 0; b < 3; b++)
         {
-            if (arr[i+startRow][j+startCol] == num)
+            if (arr[a+startRow][b+startCol] == num)
             {
                 return 0;
             }
