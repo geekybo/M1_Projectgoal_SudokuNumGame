@@ -2,9 +2,9 @@
 #![Sudoku1](https://user-images.githubusercontent.com/98813646/153377999-10dfef78-3884-4b9c-b7eb-cad1a447ab5d.PNG)
 # CODE ANALYSIS
 ![Codiga](https://user-images.githubusercontent.com/98813646/153377566-9db9caf6-493a-4b28-b6a3-ff94e87bb8fa.PNG)
-| Code Grade | Code Quality Score | Codacy |
-| -- | -- | -- |
-| https://api.codiga.io/project/30937/status/svg | https://api.codiga.io/project/30937/score/svg | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0d9bb01644c4d3cb1d376b3b2758f90)](https://www.codacy.com/gh/geekybo/M1_Projectgoal_SudokuNumGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M1_Projectgoal_SudokuNumGame&amp;utm_campaign=Badge_Grade)
+| Build | Code Grade | Code Quality Score | Codacy |
+| -- | -- | -- | -- |
+| <img src="https://travis-ci.org/dwyl/esta.svg?branch=master&amp;status=passed" alt="build:passed"> | https://api.codiga.io/project/30937/status/svg | https://api.codiga.io/project/30937/score/svg | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b0d9bb01644c4d3cb1d376b3b2758f90)](https://www.codacy.com/gh/geekybo/M1_Projectgoal_SudokuNumGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M1_Projectgoal_SudokuNumGame&amp;utm_campaign=Badge_Grade)
 
 # Introduction
 
