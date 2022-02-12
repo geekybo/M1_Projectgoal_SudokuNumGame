@@ -1,12 +1,4 @@
-/**
- * @file sudoku.h
- * @author Janhavi Gomase   
- * @brief Header file for sudoku pr
- * @version 1.0.0
- * @date 2021-11-21
- * 
- * @copyright Copyright (c) 2021
- */
+
 
 #include<stdio.h>
 #include "sudoku.h"
